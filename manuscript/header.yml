@@ -1,0 +1,14 @@
+---
+documentclass: ltjsarticle
+figureTitle: "図"
+tableTitle: "Table"
+listingTitle: "Code"
+figPrefix: "図."
+eqnPrefix: "Eq."
+tblPrefix: "Tb."
+lstPrefix: "code"
+mainfont: "Times New Roman"
+# fontsize: 12pt
+bibliography: citations.bib
+csl: vancouver.csl
+---
