@@ -17,4 +17,4 @@ A markdown template for Japanese review articles
 3. Launch compile.bat
 
 ## References
-- 動的ヘテラルキー：脳は階層固定的か？、竹内雄一 (担当:分担執筆, 範囲:オシレーション治療) Clin Neurosci 39 (7): *in press*, 中外医学社、2021年7月
+- 動的ヘテラルキー：脳は階層固定的か？　竹内雄一（担当:分担執筆、範囲:オシレーション治療） Clin Neurosci 39 (7): *in press*, 中外医学社、2021年7月。
